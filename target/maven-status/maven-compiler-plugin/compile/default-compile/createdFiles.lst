@@ -1,0 +1,7 @@
+com/spring/webcoffee/model/User.class
+com/spring/webcoffee/config/WebInitializer.class
+com/spring/webcoffee/model/Produto.class
+com/spring/webcoffee/controller/DefaultController.class
+com/spring/webcoffee/model/Pedido.class
+com/spring/webcoffee/model/Caixa.class
+com/spring/webcoffee/config/Config.class
